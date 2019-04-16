@@ -20,9 +20,31 @@ permalink: /:categories/:slug.html
 
 ## Abbreviations for journals and conferences.
 + 약자: 저널명
++ CCS: ACM SIGSAC Conference on Computer and Communications Security
++ NDSS: Network and Distributed System Security Symposium
++ SNPC: IEEE Symposium on Security and Privacy
++ USENIX: USENIX Security Symposium
++ ASIACCS: Asia Conference on Computer and Communications Security
++ PKC: International Conference on Practice and Theory in Public Key Cryptography
++ TIFS: IEEE Transactions on Information Forensics and Security 
++ CNS: Computers & Security
++ TDSC: IEEE Transactions on Dependable and Secure Computing
++ SNPJ: IEEE Security & Privacy
++ ACCESS: IEEE Access
++ TSG: IEEE Transaction on SmartGrid
++ TII: IEEE Transactions on Industrial Informatics
++ COUMPUTER: Computer 
++ IS: IET Information Security
++ TISS: ACM Transactions on Information and System Security
++ IJIS: International Journal of Information Security
 
 ## Keywords of research topics
-+ 약자: 
++ 논문에 있는 그대로 추가(논문에 keywords가 없는 경우 제목을 참고하여 키워드 생성 또는 자기 분야에서 주로 쓰는 키워드로 적절히 추가)
+
+## Tags for editors
++ 저널/컨퍼런스명과 개최 연도 추가: 2018년에 개최한 CCS의 경우, tags: [CCS, 2018, CCS2018]
++ 논문 키워드 추가
++ 컨퍼런스의 경우, 세션명 추가
 
 
 {% include date/updated.html %}
