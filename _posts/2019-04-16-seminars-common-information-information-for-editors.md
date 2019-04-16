@@ -23,6 +23,7 @@ permalink: /:categories/:slug.html
 
 ## Keywords of research topics
 + 약자: 
++ 
 
 
 {% include date/updated.html %}
